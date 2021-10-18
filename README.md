@@ -1,4 +1,4 @@
-# testeMOCX
+# Teste MOCX
 
 Execute na pasta node -> npm install
 
